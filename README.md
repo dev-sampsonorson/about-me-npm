@@ -2,6 +2,8 @@
 
 This is an npm package that tells you the very basic about me and links that will tell you more.
 
+![A preview of the package](about-me-npm.gif)
+
 ### Installation
 
 `npx @sampsonorson/about-me`
