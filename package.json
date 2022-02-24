@@ -1,6 +1,6 @@
 {
     "name": "@sampsonorson/about-me",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "description": "Displays information about Sampson Orson Jackson",
     "main": "index.js",
     "scripts": {},
