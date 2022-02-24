@@ -4,6 +4,9 @@
     "description": "Displays information about Sampson Orson Jackson",
     "main": "index.js",
     "scripts": {},
+    "bin": {
+      "about-me": "index.js"
+    },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/dev-sampsonorson/about-me-npm.git"
