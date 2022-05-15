@@ -16,7 +16,10 @@ const cardOptions = {
 
 const content = `
 ${b("Sampson Orson Jackson")}
-${w("Full-stack .NET Developer + Angular")}
+${w("Full-stack Engineer @ Interfacewerk")}
+
+${w("Tech stack")}
+${w("Angular, NestJS, MongoDB, .NET, Typescript, JavaScript, C#")}
 
 ${w("Website")}            ${m("https://sampsonorson.com")}
 ${w("GitHub")}             ${m("https://github.com/dev-sampsonorson")}
